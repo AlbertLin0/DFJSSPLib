@@ -1,0 +1,4 @@
+numpy~=1.23.3
+torchvision~=0.13.1
+pillow~=9.2.0
+gym~=0.26.2
